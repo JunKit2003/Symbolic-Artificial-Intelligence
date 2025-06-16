@@ -1,0 +1,35 @@
+sat
+Solution 1:
+s1: u38
+s2: u42
+s3: u38
+s4: u42
+s5: u42
+s6: u42
+s7: u42
+s8: u47
+s9: u42
+s10: u47
+Solution 2:
+s1: u36
+s2: u2
+s3: u2
+s4: u36
+s5: u36
+s6: u36
+s7: u36
+s8: u2
+s9: u36
+s10: u2
+Solution 3:
+s1: u42
+s2: u2
+s3: u2
+s4: u42
+s5: u42
+s6: u42
+s7: u42
+s8: u2
+s9: u42
+s10: u2
+Time Elapsed: 4000034ms

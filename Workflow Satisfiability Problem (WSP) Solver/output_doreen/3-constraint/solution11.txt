@@ -1,0 +1,12 @@
+sat
+s1: u48
+s2: u17
+s3: u29
+s4: u48
+s5: u48
+s6: u5
+s7: u9
+s8: u18
+s9: u16
+s10: u18
+Time Elapsed: 35ms

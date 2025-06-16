@@ -1,0 +1,10 @@
+sat
+s1: u18
+s2: u20
+s3: u18
+s4: u18
+s5: u20
+s6: u16
+s7: u16
+s8: u20
+Time Elapsed: 33ms

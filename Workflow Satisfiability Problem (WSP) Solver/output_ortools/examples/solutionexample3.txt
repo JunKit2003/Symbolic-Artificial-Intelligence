@@ -1,0 +1,5 @@
+sat
+s1: u3
+s2: u1
+s3: u3
+Time Elapsed: 15ms

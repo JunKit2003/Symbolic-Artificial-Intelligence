@@ -1,0 +1,1374 @@
+
+========================================
+Processing sat1.txt:
+========================================
+Time Taken to solve this instance: 4 ms
+sat
+Solution 1:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 0
+
+Solution 2:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 1
+
+Solution 3:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 2
+
+
+========================================
+Processing sat10.txt:
+========================================
+Time Taken to solve this instance: 118 ms
+unsat
+Conflicting constraints detected:
+  - Each invigilator can be assigned to only one exam.
+
+Suggested adjustments to resolve conflicts:
+  - Increased number of invigilators to 6.
+Suggested changes resolved conflict successfully.
+
+Solution 1:
+   Exam: 0  Room: 1  Slot: 5  Invigilator: 5
+   Exam: 1  Room: 1  Slot: 9  Invigilator: 0
+   Exam: 2  Room: 0  Slot: 7  Invigilator: 1
+   Exam: 3  Room: 0  Slot: 3  Invigilator: 2
+   Exam: 4  Room: 1  Slot: 1  Invigilator: 3
+   Exam: 5  Room: 2  Slot: 0  Invigilator: 4
+
+Solution 2:
+   Exam: 0  Room: 1  Slot: 4  Invigilator: 4
+   Exam: 1  Room: 1  Slot: 8  Invigilator: 2
+   Exam: 2  Room: 0  Slot: 6  Invigilator: 0
+   Exam: 3  Room: 0  Slot: 2  Invigilator: 1
+   Exam: 4  Room: 1  Slot: 0  Invigilator: 5
+   Exam: 5  Room: 1  Slot: 1  Invigilator: 3
+
+Solution 3:
+   Exam: 0  Room: 1  Slot: 4  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 9  Invigilator: 1
+   Exam: 2  Room: 0  Slot: 7  Invigilator: 2
+   Exam: 3  Room: 0  Slot: 2  Invigilator: 0
+   Exam: 4  Room: 1  Slot: 0  Invigilator: 5
+   Exam: 5  Room: 0  Slot: 0  Invigilator: 4
+
+Solution 4:
+   Exam: 0  Room: 1  Slot: 4  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 8  Invigilator: 1
+   Exam: 2  Room: 0  Slot: 6  Invigilator: 2
+   Exam: 3  Room: 0  Slot: 2  Invigilator: 0
+   Exam: 4  Room: 1  Slot: 0  Invigilator: 5
+   Exam: 5  Room: 0  Slot: 0  Invigilator: 4
+
+Solution 5:
+   Exam: 0  Room: 1  Slot: 4  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 9  Invigilator: 1
+   Exam: 2  Room: 0  Slot: 6  Invigilator: 2
+   Exam: 3  Room: 0  Slot: 2  Invigilator: 0
+   Exam: 4  Room: 1  Slot: 0  Invigilator: 5
+   Exam: 5  Room: 0  Slot: 0  Invigilator: 4
+
+Solution 6:
+   Exam: 0  Room: 1  Slot: 4  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 9  Invigilator: 1
+   Exam: 2  Room: 0  Slot: 6  Invigilator: 2
+   Exam: 3  Room: 0  Slot: 2  Invigilator: 0
+   Exam: 4  Room: 1  Slot: 0  Invigilator: 5
+   Exam: 5  Room: 0  Slot: 1  Invigilator: 4
+
+Solution 7:
+   Exam: 0  Room: 1  Slot: 4  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 8  Invigilator: 1
+   Exam: 2  Room: 0  Slot: 6  Invigilator: 2
+   Exam: 3  Room: 0  Slot: 2  Invigilator: 0
+   Exam: 4  Room: 1  Slot: 0  Invigilator: 5
+   Exam: 5  Room: 0  Slot: 1  Invigilator: 4
+
+Solution 8:
+   Exam: 0  Room: 1  Slot: 4  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 8  Invigilator: 1
+   Exam: 2  Room: 0  Slot: 6  Invigilator: 2
+   Exam: 3  Room: 0  Slot: 2  Invigilator: 0
+   Exam: 4  Room: 1  Slot: 0  Invigilator: 5
+   Exam: 5  Room: 0  Slot: 3  Invigilator: 4
+
+Solution 9:
+   Exam: 0  Room: 1  Slot: 4  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 8  Invigilator: 1
+   Exam: 2  Room: 0  Slot: 6  Invigilator: 2
+   Exam: 3  Room: 0  Slot: 2  Invigilator: 0
+   Exam: 4  Room: 1  Slot: 0  Invigilator: 5
+   Exam: 5  Room: 0  Slot: 5  Invigilator: 4
+
+Solution 10:
+   Exam: 0  Room: 1  Slot: 4  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 8  Invigilator: 1
+   Exam: 2  Room: 0  Slot: 6  Invigilator: 2
+   Exam: 3  Room: 0  Slot: 2  Invigilator: 0
+   Exam: 4  Room: 1  Slot: 0  Invigilator: 5
+   Exam: 5  Room: 0  Slot: 4  Invigilator: 4
+
+
+========================================
+Processing sat2.txt:
+========================================
+Time Taken to solve this instance: 2 ms
+sat
+Solution 1:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 0
+   Exam: 1  Room: 0  Slot: 2  Invigilator: 1
+
+Solution 2:
+   Exam: 0  Room: 0  Slot: 2  Invigilator: 1
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 2
+
+Solution 3:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 2  Invigilator: 0
+
+Solution 4:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 1
+   Exam: 1  Room: 0  Slot: 2  Invigilator: 0
+
+Solution 5:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 2  Invigilator: 1
+
+Solution 6:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 1
+   Exam: 1  Room: 0  Slot: 2  Invigilator: 2
+
+Solution 7:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 0
+   Exam: 1  Room: 0  Slot: 2  Invigilator: 2
+
+Solution 8:
+   Exam: 0  Room: 0  Slot: 2  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 0
+
+Solution 9:
+   Exam: 0  Room: 0  Slot: 2  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 1
+
+Solution 10:
+   Exam: 0  Room: 0  Slot: 2  Invigilator: 1
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 0
+
+
+========================================
+Processing sat3.txt:
+========================================
+Time Taken to solve this instance: 1 ms
+sat
+Solution 1:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 0
+   Exam: 1  Room: 0  Slot: 1  Invigilator: 1
+
+Solution 2:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 1
+   Exam: 1  Room: 0  Slot: 1  Invigilator: 0
+
+Solution 3:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 0
+   Exam: 1  Room: 0  Slot: 1  Invigilator: 2
+
+Solution 4:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 1
+   Exam: 1  Room: 0  Slot: 1  Invigilator: 2
+
+Solution 5:
+   Exam: 0  Room: 0  Slot: 1  Invigilator: 1
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 2
+
+Solution 6:
+   Exam: 0  Room: 0  Slot: 1  Invigilator: 0
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 2
+
+Solution 7:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 1  Invigilator: 0
+
+Solution 8:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 1  Invigilator: 1
+
+Solution 9:
+   Exam: 0  Room: 0  Slot: 1  Invigilator: 1
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 0
+
+Solution 10:
+   Exam: 0  Room: 0  Slot: 1  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 0
+
+
+========================================
+Processing sat4.txt:
+========================================
+Time Taken to solve this instance: 2 ms
+sat
+Solution 1:
+   Exam: 0  Room: 1  Slot: 0  Invigilator: 0
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 1
+
+Solution 2:
+   Exam: 0  Room: 1  Slot: 0  Invigilator: 1
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 2
+
+Solution 3:
+   Exam: 0  Room: 1  Slot: 0  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 1
+
+Solution 4:
+   Exam: 0  Room: 1  Slot: 0  Invigilator: 1
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 0
+
+Solution 5:
+   Exam: 0  Room: 1  Slot: 0  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 0
+
+Solution 6:
+   Exam: 0  Room: 1  Slot: 0  Invigilator: 0
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 2
+
+
+========================================
+Processing sat5.txt:
+========================================
+Time Taken to solve this instance: 2 ms
+sat
+Solution 1:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 0
+   Exam: 1  Room: 0  Slot: 1  Invigilator: 1
+
+Solution 2:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 1
+   Exam: 1  Room: 0  Slot: 1  Invigilator: 0
+
+Solution 3:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 1  Invigilator: 1
+
+Solution 4:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 0
+   Exam: 1  Room: 0  Slot: 1  Invigilator: 2
+
+Solution 5:
+   Exam: 0  Room: 0  Slot: 1  Invigilator: 0
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 2
+
+Solution 6:
+   Exam: 0  Room: 0  Slot: 1  Invigilator: 1
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 2
+
+Solution 7:
+   Exam: 0  Room: 0  Slot: 1  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 0
+
+Solution 8:
+   Exam: 0  Room: 0  Slot: 1  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 1
+
+Solution 9:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 1  Invigilator: 0
+
+Solution 10:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 1
+   Exam: 1  Room: 0  Slot: 1  Invigilator: 2
+
+
+========================================
+Processing sat6.txt:
+========================================
+Time Taken to solve this instance: 5 ms
+sat
+Solution 1:
+   Exam: 0  Room: 0  Slot: 4  Invigilator: 2
+   Exam: 1  Room: 1  Slot: 2  Invigilator: 1
+   Exam: 2  Room: 2  Slot: 0  Invigilator: 0
+
+Solution 2:
+   Exam: 0  Room: 1  Slot: 5  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 3  Invigilator: 0
+   Exam: 2  Room: 2  Slot: 1  Invigilator: 1
+
+Solution 3:
+   Exam: 0  Room: 0  Slot: 5  Invigilator: 1
+   Exam: 1  Room: 1  Slot: 3  Invigilator: 2
+   Exam: 2  Room: 1  Slot: 1  Invigilator: 0
+
+Solution 4:
+   Exam: 0  Room: 0  Slot: 5  Invigilator: 0
+   Exam: 1  Room: 0  Slot: 3  Invigilator: 1
+   Exam: 2  Room: 0  Slot: 1  Invigilator: 2
+
+Solution 5:
+   Exam: 0  Room: 1  Slot: 5  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 3  Invigilator: 0
+   Exam: 2  Room: 1  Slot: 1  Invigilator: 1
+
+Solution 6:
+   Exam: 0  Room: 1  Slot: 5  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 3  Invigilator: 1
+   Exam: 2  Room: 1  Slot: 1  Invigilator: 0
+
+Solution 7:
+   Exam: 0  Room: 1  Slot: 5  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 3  Invigilator: 1
+   Exam: 2  Room: 0  Slot: 1  Invigilator: 0
+
+Solution 8:
+   Exam: 0  Room: 1  Slot: 5  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 3  Invigilator: 1
+   Exam: 2  Room: 3  Slot: 1  Invigilator: 0
+
+Solution 9:
+   Exam: 0  Room: 1  Slot: 5  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 3  Invigilator: 1
+   Exam: 2  Room: 4  Slot: 1  Invigilator: 0
+
+Solution 10:
+   Exam: 0  Room: 1  Slot: 5  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 3  Invigilator: 1
+   Exam: 2  Room: 2  Slot: 1  Invigilator: 0
+
+
+========================================
+Processing sat7.txt:
+========================================
+Time Taken to solve this instance: 33 ms
+unsat
+Conflicting constraints detected:
+  - Each invigilator can be assigned to only one exam.
+
+Suggested adjustments to resolve conflicts:
+  - Increased number of invigilators to 5.
+Suggested changes resolved conflict successfully.
+
+Solution 1:
+   Exam: 0  Room: 0  Slot: 4  Invigilator: 2
+   Exam: 1  Room: 2  Slot: 0  Invigilator: 0
+   Exam: 2  Room: 0  Slot: 2  Invigilator: 4
+   Exam: 3  Room: 3  Slot: 0  Invigilator: 1
+   Exam: 4  Room: 1  Slot: 1  Invigilator: 3
+
+Solution 2:
+   Exam: 0  Room: 2  Slot: 4  Invigilator: 1
+   Exam: 1  Room: 2  Slot: 0  Invigilator: 4
+   Exam: 2  Room: 0  Slot: 2  Invigilator: 3
+   Exam: 3  Room: 3  Slot: 0  Invigilator: 0
+   Exam: 4  Room: 1  Slot: 1  Invigilator: 2
+
+Solution 3:
+   Exam: 0  Room: 0  Slot: 4  Invigilator: 1
+   Exam: 1  Room: 1  Slot: 0  Invigilator: 3
+   Exam: 2  Room: 0  Slot: 2  Invigilator: 4
+   Exam: 3  Room: 3  Slot: 2  Invigilator: 0
+   Exam: 4  Room: 1  Slot: 1  Invigilator: 2
+
+Solution 4:
+   Exam: 0  Room: 0  Slot: 4  Invigilator: 1
+   Exam: 1  Room: 1  Slot: 0  Invigilator: 3
+   Exam: 2  Room: 0  Slot: 2  Invigilator: 4
+   Exam: 3  Room: 2  Slot: 2  Invigilator: 0
+   Exam: 4  Room: 1  Slot: 1  Invigilator: 2
+
+Solution 5:
+   Exam: 0  Room: 0  Slot: 4  Invigilator: 1
+   Exam: 1  Room: 1  Slot: 0  Invigilator: 4
+   Exam: 2  Room: 0  Slot: 2  Invigilator: 3
+   Exam: 3  Room: 2  Slot: 2  Invigilator: 0
+   Exam: 4  Room: 1  Slot: 1  Invigilator: 2
+
+Solution 6:
+   Exam: 0  Room: 0  Slot: 4  Invigilator: 1
+   Exam: 1  Room: 1  Slot: 0  Invigilator: 4
+   Exam: 2  Room: 0  Slot: 2  Invigilator: 3
+   Exam: 3  Room: 2  Slot: 1  Invigilator: 0
+   Exam: 4  Room: 1  Slot: 1  Invigilator: 2
+
+Solution 7:
+   Exam: 0  Room: 0  Slot: 4  Invigilator: 1
+   Exam: 1  Room: 1  Slot: 0  Invigilator: 4
+   Exam: 2  Room: 0  Slot: 2  Invigilator: 3
+   Exam: 3  Room: 2  Slot: 0  Invigilator: 0
+   Exam: 4  Room: 1  Slot: 1  Invigilator: 2
+
+Solution 8:
+   Exam: 0  Room: 0  Slot: 4  Invigilator: 1
+   Exam: 1  Room: 1  Slot: 0  Invigilator: 4
+   Exam: 2  Room: 0  Slot: 2  Invigilator: 3
+   Exam: 3  Room: 0  Slot: 1  Invigilator: 0
+   Exam: 4  Room: 1  Slot: 1  Invigilator: 2
+
+Solution 9:
+   Exam: 0  Room: 0  Slot: 4  Invigilator: 1
+   Exam: 1  Room: 1  Slot: 0  Invigilator: 4
+   Exam: 2  Room: 0  Slot: 2  Invigilator: 3
+   Exam: 3  Room: 3  Slot: 1  Invigilator: 0
+   Exam: 4  Room: 1  Slot: 1  Invigilator: 2
+
+Solution 10:
+   Exam: 0  Room: 0  Slot: 4  Invigilator: 1
+   Exam: 1  Room: 1  Slot: 0  Invigilator: 4
+   Exam: 2  Room: 0  Slot: 2  Invigilator: 3
+   Exam: 3  Room: 0  Slot: 0  Invigilator: 0
+   Exam: 4  Room: 1  Slot: 1  Invigilator: 2
+
+
+========================================
+Processing sat8.txt:
+========================================
+Time Taken to solve this instance: 9 ms
+sat
+Solution 1:
+   Exam: 0  Room: 0  Slot: 4  Invigilator: 0
+   Exam: 1  Room: 1  Slot: 2  Invigilator: 1
+   Exam: 2  Room: 2  Slot: 0  Invigilator: 2
+
+Solution 2:
+   Exam: 0  Room: 2  Slot: 4  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 2  Invigilator: 0
+   Exam: 2  Room: 1  Slot: 0  Invigilator: 1
+
+Solution 3:
+   Exam: 0  Room: 1  Slot: 4  Invigilator: 1
+   Exam: 1  Room: 1  Slot: 2  Invigilator: 2
+   Exam: 2  Room: 0  Slot: 0  Invigilator: 0
+
+Solution 4:
+   Exam: 0  Room: 0  Slot: 4  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 2  Invigilator: 1
+   Exam: 2  Room: 1  Slot: 0  Invigilator: 0
+
+Solution 5:
+   Exam: 0  Room: 0  Slot: 4  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 2  Invigilator: 1
+   Exam: 2  Room: 2  Slot: 0  Invigilator: 0
+
+Solution 6:
+   Exam: 0  Room: 0  Slot: 4  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 2  Invigilator: 1
+   Exam: 2  Room: 0  Slot: 0  Invigilator: 0
+
+Solution 7:
+   Exam: 0  Room: 0  Slot: 4  Invigilator: 0
+   Exam: 1  Room: 0  Slot: 2  Invigilator: 2
+   Exam: 2  Room: 2  Slot: 0  Invigilator: 1
+
+Solution 8:
+   Exam: 0  Room: 1  Slot: 4  Invigilator: 0
+   Exam: 1  Room: 1  Slot: 2  Invigilator: 2
+   Exam: 2  Room: 2  Slot: 0  Invigilator: 1
+
+Solution 9:
+   Exam: 0  Room: 2  Slot: 4  Invigilator: 0
+   Exam: 1  Room: 2  Slot: 2  Invigilator: 2
+   Exam: 2  Room: 2  Slot: 0  Invigilator: 1
+
+Solution 10:
+   Exam: 0  Room: 2  Slot: 4  Invigilator: 0
+   Exam: 1  Room: 2  Slot: 2  Invigilator: 1
+   Exam: 2  Room: 2  Slot: 0  Invigilator: 2
+
+
+========================================
+Processing sat9.txt:
+========================================
+Time Taken to solve this instance: 104 ms
+unsat
+Conflicting constraints detected:
+  - Each invigilator can be assigned to only one exam.
+
+Suggested adjustments to resolve conflicts:
+  - Increased number of invigilators to 5.
+Suggested changes resolved conflict successfully.
+
+Solution 1:
+   Exam: 0  Room: 0  Slot: 9  Invigilator: 2
+   Exam: 1  Room: 1  Slot: 0  Invigilator: 3
+   Exam: 2  Room: 1  Slot: 2  Invigilator: 1
+   Exam: 3  Room: 1  Slot: 7  Invigilator: 0
+   Exam: 4  Room: 2  Slot: 4  Invigilator: 4
+
+Solution 2:
+   Exam: 0  Room: 0  Slot: 9  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 1  Invigilator: 1
+   Exam: 2  Room: 1  Slot: 5  Invigilator: 2
+   Exam: 3  Room: 1  Slot: 7  Invigilator: 0
+   Exam: 4  Room: 2  Slot: 3  Invigilator: 4
+
+Solution 3:
+   Exam: 0  Room: 0  Slot: 8  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 0  Invigilator: 1
+   Exam: 2  Room: 1  Slot: 4  Invigilator: 2
+   Exam: 3  Room: 1  Slot: 6  Invigilator: 0
+   Exam: 4  Room: 2  Slot: 2  Invigilator: 4
+
+Solution 4:
+   Exam: 0  Room: 0  Slot: 9  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 0  Invigilator: 1
+   Exam: 2  Room: 1  Slot: 4  Invigilator: 2
+   Exam: 3  Room: 1  Slot: 6  Invigilator: 0
+   Exam: 4  Room: 2  Slot: 2  Invigilator: 4
+
+Solution 5:
+   Exam: 0  Room: 0  Slot: 8  Invigilator: 2
+   Exam: 1  Room: 1  Slot: 0  Invigilator: 0
+   Exam: 2  Room: 1  Slot: 4  Invigilator: 1
+   Exam: 3  Room: 1  Slot: 6  Invigilator: 4
+   Exam: 4  Room: 2  Slot: 2  Invigilator: 3
+
+Solution 6:
+   Exam: 0  Room: 0  Slot: 9  Invigilator: 2
+   Exam: 1  Room: 1  Slot: 0  Invigilator: 0
+   Exam: 2  Room: 1  Slot: 5  Invigilator: 1
+   Exam: 3  Room: 1  Slot: 7  Invigilator: 4
+   Exam: 4  Room: 2  Slot: 3  Invigilator: 3
+
+Solution 7:
+   Exam: 0  Room: 0  Slot: 9  Invigilator: 2
+   Exam: 1  Room: 1  Slot: 0  Invigilator: 0
+   Exam: 2  Room: 2  Slot: 5  Invigilator: 1
+   Exam: 3  Room: 1  Slot: 7  Invigilator: 4
+   Exam: 4  Room: 2  Slot: 3  Invigilator: 3
+
+Solution 8:
+   Exam: 0  Room: 0  Slot: 9  Invigilator: 2
+   Exam: 1  Room: 1  Slot: 1  Invigilator: 0
+   Exam: 2  Room: 2  Slot: 5  Invigilator: 1
+   Exam: 3  Room: 1  Slot: 7  Invigilator: 4
+   Exam: 4  Room: 2  Slot: 3  Invigilator: 3
+
+Solution 9:
+   Exam: 0  Room: 0  Slot: 9  Invigilator: 2
+   Exam: 1  Room: 1  Slot: 1  Invigilator: 0
+   Exam: 2  Room: 1  Slot: 5  Invigilator: 1
+   Exam: 3  Room: 1  Slot: 7  Invigilator: 4
+   Exam: 4  Room: 2  Slot: 3  Invigilator: 3
+
+Solution 10:
+   Exam: 0  Room: 0  Slot: 9  Invigilator: 2
+   Exam: 1  Room: 1  Slot: 1  Invigilator: 0
+   Exam: 2  Room: 2  Slot: 5  Invigilator: 1
+   Exam: 3  Room: 2  Slot: 7  Invigilator: 4
+   Exam: 4  Room: 2  Slot: 3  Invigilator: 3
+
+
+========================================
+Processing unsat1.txt:
+========================================
+Time Taken to solve this instance: 3 ms
+unsat
+Conflicting constraints detected:
+  - Room capacity exceeded.
+  - Exam times or rooms are out of range.
+
+Suggested adjustments to resolve conflicts:
+  - Increased capacity of room 0 by 5.
+  - Increased capacity of room 1 by 5.
+  - Increased number of time slots by 1.
+Suggested changes resolved conflict successfully.
+
+Solution 1:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 0
+
+Solution 2:
+   Exam: 0  Room: 1  Slot: 1  Invigilator: 1
+
+Solution 3:
+   Exam: 0  Room: 1  Slot: 0  Invigilator: 0
+
+Solution 4:
+   Exam: 0  Room: 1  Slot: 0  Invigilator: 2
+
+Solution 5:
+   Exam: 0  Room: 1  Slot: 0  Invigilator: 1
+
+Solution 6:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 1
+
+Solution 7:
+   Exam: 0  Room: 0  Slot: 2  Invigilator: 1
+
+Solution 8:
+   Exam: 0  Room: 0  Slot: 3  Invigilator: 1
+
+Solution 9:
+   Exam: 0  Room: 0  Slot: 4  Invigilator: 1
+
+Solution 10:
+   Exam: 0  Room: 0  Slot: 3  Invigilator: 2
+
+
+========================================
+Processing unsat10.txt:
+========================================
+Time Taken to solve this instance: 4137 ms
+unsat
+Conflicting constraints detected:
+  - Exam times or rooms are out of range.
+  - Each invigilator can be assigned to only one exam.
+  - Students cannot have overlapping exams.
+
+Suggested adjustments to resolve conflicts:
+  - Increased number of time slots by 3.
+  - Increased number of invigilators to 8.
+Suggested changes resolved conflict successfully.
+
+Solution 1:
+   Exam: 0  Room: 1  Slot: 2  Invigilator: 3
+   Exam: 1  Room: 2  Slot: 12  Invigilator: 7
+   Exam: 2  Room: 1  Slot: 4  Invigilator: 4
+   Exam: 3  Room: 2  Slot: 0  Invigilator: 0
+   Exam: 4  Room: 2  Slot: 2  Invigilator: 6
+   Exam: 5  Room: 1  Slot: 10  Invigilator: 1
+   Exam: 6  Room: 1  Slot: 8  Invigilator: 5
+   Exam: 7  Room: 0  Slot: 6  Invigilator: 2
+
+Solution 2:
+   Exam: 0  Room: 1  Slot: 2  Invigilator: 6
+   Exam: 1  Room: 2  Slot: 12  Invigilator: 7
+   Exam: 2  Room: 1  Slot: 4  Invigilator: 5
+   Exam: 3  Room: 2  Slot: 0  Invigilator: 1
+   Exam: 4  Room: 2  Slot: 2  Invigilator: 4
+   Exam: 5  Room: 1  Slot: 10  Invigilator: 2
+   Exam: 6  Room: 1  Slot: 8  Invigilator: 3
+   Exam: 7  Room: 0  Slot: 6  Invigilator: 0
+
+Solution 3:
+   Exam: 0  Room: 1  Slot: 2  Invigilator: 6
+   Exam: 1  Room: 2  Slot: 12  Invigilator: 7
+   Exam: 2  Room: 1  Slot: 4  Invigilator: 5
+   Exam: 3  Room: 1  Slot: 0  Invigilator: 1
+   Exam: 4  Room: 2  Slot: 2  Invigilator: 4
+   Exam: 5  Room: 1  Slot: 10  Invigilator: 2
+   Exam: 6  Room: 1  Slot: 8  Invigilator: 3
+   Exam: 7  Room: 0  Slot: 6  Invigilator: 0
+
+Solution 4:
+   Exam: 0  Room: 1  Slot: 2  Invigilator: 6
+   Exam: 1  Room: 2  Slot: 12  Invigilator: 7
+   Exam: 2  Room: 2  Slot: 4  Invigilator: 5
+   Exam: 3  Room: 2  Slot: 0  Invigilator: 1
+   Exam: 4  Room: 2  Slot: 2  Invigilator: 4
+   Exam: 5  Room: 1  Slot: 10  Invigilator: 2
+   Exam: 6  Room: 1  Slot: 8  Invigilator: 3
+   Exam: 7  Room: 0  Slot: 6  Invigilator: 0
+
+Solution 5:
+   Exam: 0  Room: 0  Slot: 2  Invigilator: 6
+   Exam: 1  Room: 2  Slot: 12  Invigilator: 7
+   Exam: 2  Room: 2  Slot: 4  Invigilator: 5
+   Exam: 3  Room: 2  Slot: 0  Invigilator: 1
+   Exam: 4  Room: 2  Slot: 2  Invigilator: 4
+   Exam: 5  Room: 1  Slot: 10  Invigilator: 2
+   Exam: 6  Room: 1  Slot: 8  Invigilator: 3
+   Exam: 7  Room: 0  Slot: 6  Invigilator: 0
+
+Solution 6:
+   Exam: 0  Room: 0  Slot: 2  Invigilator: 6
+   Exam: 1  Room: 2  Slot: 12  Invigilator: 7
+   Exam: 2  Room: 2  Slot: 4  Invigilator: 5
+   Exam: 3  Room: 2  Slot: 0  Invigilator: 1
+   Exam: 4  Room: 2  Slot: 2  Invigilator: 4
+   Exam: 5  Room: 1  Slot: 10  Invigilator: 2
+   Exam: 6  Room: 1  Slot: 8  Invigilator: 3
+   Exam: 7  Room: 1  Slot: 6  Invigilator: 0
+
+Solution 7:
+   Exam: 0  Room: 0  Slot: 2  Invigilator: 6
+   Exam: 1  Room: 2  Slot: 12  Invigilator: 7
+   Exam: 2  Room: 1  Slot: 4  Invigilator: 5
+   Exam: 3  Room: 2  Slot: 0  Invigilator: 1
+   Exam: 4  Room: 2  Slot: 2  Invigilator: 4
+   Exam: 5  Room: 1  Slot: 10  Invigilator: 2
+   Exam: 6  Room: 1  Slot: 8  Invigilator: 3
+   Exam: 7  Room: 1  Slot: 6  Invigilator: 0
+
+Solution 8:
+   Exam: 0  Room: 1  Slot: 2  Invigilator: 6
+   Exam: 1  Room: 2  Slot: 12  Invigilator: 7
+   Exam: 2  Room: 1  Slot: 4  Invigilator: 5
+   Exam: 3  Room: 2  Slot: 0  Invigilator: 1
+   Exam: 4  Room: 2  Slot: 2  Invigilator: 4
+   Exam: 5  Room: 1  Slot: 10  Invigilator: 2
+   Exam: 6  Room: 1  Slot: 8  Invigilator: 3
+   Exam: 7  Room: 1  Slot: 6  Invigilator: 0
+
+Solution 9:
+   Exam: 0  Room: 1  Slot: 2  Invigilator: 6
+   Exam: 1  Room: 2  Slot: 12  Invigilator: 7
+   Exam: 2  Room: 1  Slot: 4  Invigilator: 5
+   Exam: 3  Room: 2  Slot: 0  Invigilator: 1
+   Exam: 4  Room: 2  Slot: 2  Invigilator: 4
+   Exam: 5  Room: 1  Slot: 10  Invigilator: 2
+   Exam: 6  Room: 1  Slot: 8  Invigilator: 3
+   Exam: 7  Room: 2  Slot: 6  Invigilator: 0
+
+Solution 10:
+   Exam: 0  Room: 0  Slot: 2  Invigilator: 6
+   Exam: 1  Room: 2  Slot: 12  Invigilator: 7
+   Exam: 2  Room: 1  Slot: 4  Invigilator: 5
+   Exam: 3  Room: 2  Slot: 0  Invigilator: 1
+   Exam: 4  Room: 2  Slot: 2  Invigilator: 4
+   Exam: 5  Room: 1  Slot: 10  Invigilator: 2
+   Exam: 6  Room: 1  Slot: 8  Invigilator: 3
+   Exam: 7  Room: 2  Slot: 6  Invigilator: 0
+
+
+========================================
+Processing unsat2.txt:
+========================================
+Time Taken to solve this instance: 4 ms
+unsat
+Conflicting constraints detected:
+  - Room capacity exceeded.
+  - Exam times or rooms are out of range.
+
+Suggested adjustments to resolve conflicts:
+  - Increased capacity of room 0 by 5.
+  - Increased number of time slots by 1.
+Suggested changes resolved conflict successfully.
+
+Solution 1:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 0
+   Exam: 1  Room: 0  Slot: 2  Invigilator: 1
+
+Solution 2:
+   Exam: 0  Room: 0  Slot: 2  Invigilator: 1
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 2
+
+Solution 3:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 2  Invigilator: 1
+
+Solution 4:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 2  Invigilator: 0
+
+Solution 5:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 1
+   Exam: 1  Room: 0  Slot: 2  Invigilator: 0
+
+Solution 6:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 1
+   Exam: 1  Room: 0  Slot: 2  Invigilator: 2
+
+Solution 7:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 0
+   Exam: 1  Room: 0  Slot: 2  Invigilator: 2
+
+Solution 8:
+   Exam: 0  Room: 0  Slot: 2  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 0
+
+Solution 9:
+   Exam: 0  Room: 0  Slot: 2  Invigilator: 1
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 0
+
+Solution 10:
+   Exam: 0  Room: 0  Slot: 2  Invigilator: 0
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 1
+
+
+========================================
+Processing unsat3.txt:
+========================================
+Time Taken to solve this instance: 85 ms
+unsat
+Conflicting constraints detected:
+  - Each invigilator can be assigned to only one exam.
+  - Room capacity exceeded.
+  - Exam times or rooms are out of range.
+
+Suggested adjustments to resolve conflicts:
+  - Increased capacity of room 0 by 10.
+  - Increased capacity of room 1 by 10.
+  - Increased capacity of room 2 by 10.
+  - Increased number of invigilators to 5.
+  - Increased number of time slots by 2.
+Suggested changes resolved conflict successfully.
+
+Solution 1:
+   Exam: 0  Room: 1  Slot: 6  Invigilator: 4
+   Exam: 1  Room: 1  Slot: 4  Invigilator: 2
+   Exam: 2  Room: 1  Slot: 0  Invigilator: 0
+   Exam: 3  Room: 0  Slot: 8  Invigilator: 1
+   Exam: 4  Room: 2  Slot: 2  Invigilator: 3
+
+Solution 2:
+   Exam: 0  Room: 1  Slot: 4  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 2  Invigilator: 4
+   Exam: 2  Room: 1  Slot: 6  Invigilator: 1
+   Exam: 3  Room: 0  Slot: 8  Invigilator: 0
+   Exam: 4  Room: 2  Slot: 0  Invigilator: 2
+
+Solution 3:
+   Exam: 0  Room: 1  Slot: 6  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 4  Invigilator: 4
+   Exam: 2  Room: 1  Slot: 8  Invigilator: 1
+   Exam: 3  Room: 0  Slot: 2  Invigilator: 0
+   Exam: 4  Room: 2  Slot: 0  Invigilator: 2
+
+Solution 4:
+   Exam: 0  Room: 1  Slot: 6  Invigilator: 4
+   Exam: 1  Room: 1  Slot: 4  Invigilator: 3
+   Exam: 2  Room: 1  Slot: 8  Invigilator: 1
+   Exam: 3  Room: 0  Slot: 2  Invigilator: 0
+   Exam: 4  Room: 2  Slot: 0  Invigilator: 2
+
+Solution 5:
+   Exam: 0  Room: 1  Slot: 6  Invigilator: 4
+   Exam: 1  Room: 1  Slot: 4  Invigilator: 3
+   Exam: 2  Room: 1  Slot: 8  Invigilator: 1
+   Exam: 3  Room: 1  Slot: 2  Invigilator: 0
+   Exam: 4  Room: 2  Slot: 0  Invigilator: 2
+
+Solution 6:
+   Exam: 0  Room: 1  Slot: 6  Invigilator: 4
+   Exam: 1  Room: 1  Slot: 4  Invigilator: 3
+   Exam: 2  Room: 1  Slot: 8  Invigilator: 1
+   Exam: 3  Room: 2  Slot: 2  Invigilator: 0
+   Exam: 4  Room: 2  Slot: 0  Invigilator: 2
+
+Solution 7:
+   Exam: 0  Room: 1  Slot: 8  Invigilator: 4
+   Exam: 1  Room: 1  Slot: 4  Invigilator: 3
+   Exam: 2  Room: 1  Slot: 6  Invigilator: 1
+   Exam: 3  Room: 1  Slot: 2  Invigilator: 0
+   Exam: 4  Room: 2  Slot: 0  Invigilator: 2
+
+Solution 8:
+   Exam: 0  Room: 1  Slot: 8  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 4  Invigilator: 4
+   Exam: 2  Room: 1  Slot: 6  Invigilator: 1
+   Exam: 3  Room: 1  Slot: 2  Invigilator: 0
+   Exam: 4  Room: 2  Slot: 0  Invigilator: 2
+
+Solution 9:
+   Exam: 0  Room: 1  Slot: 6  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 4  Invigilator: 4
+   Exam: 2  Room: 1  Slot: 8  Invigilator: 1
+   Exam: 3  Room: 1  Slot: 2  Invigilator: 0
+   Exam: 4  Room: 2  Slot: 0  Invigilator: 2
+
+Solution 10:
+   Exam: 0  Room: 1  Slot: 2  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 4  Invigilator: 4
+   Exam: 2  Room: 1  Slot: 8  Invigilator: 1
+   Exam: 3  Room: 1  Slot: 6  Invigilator: 0
+   Exam: 4  Room: 2  Slot: 0  Invigilator: 2
+
+
+========================================
+Processing unsat4.txt:
+========================================
+Time Taken to solve this instance: 40 ms
+unsat
+Conflicting constraints detected:
+  - Each invigilator can be assigned to only one exam.
+  - Room capacity exceeded.
+  - Exam times or rooms are out of range.
+
+Suggested adjustments to resolve conflicts:
+  - Increased capacity of room 0 by 10.
+  - Increased capacity of room 1 by 10.
+  - Increased capacity of room 2 by 10.
+  - Increased capacity of room 3 by 10.
+  - Increased capacity of room 4 by 10.
+  - Increased number of invigilators to 4.
+  - Increased number of time slots by 2.
+Suggested changes resolved conflict successfully.
+
+Solution 1:
+   Exam: 0  Room: 2  Slot: 6  Invigilator: 0
+   Exam: 1  Room: 0  Slot: 4  Invigilator: 3
+   Exam: 2  Room: 2  Slot: 2  Invigilator: 1
+   Exam: 3  Room: 1  Slot: 0  Invigilator: 2
+
+Solution 2:
+   Exam: 0  Room: 4  Slot: 6  Invigilator: 1
+   Exam: 1  Room: 1  Slot: 4  Invigilator: 2
+   Exam: 2  Room: 2  Slot: 2  Invigilator: 0
+   Exam: 3  Room: 3  Slot: 0  Invigilator: 3
+
+Solution 3:
+   Exam: 0  Room: 4  Slot: 6  Invigilator: 0
+   Exam: 1  Room: 3  Slot: 4  Invigilator: 1
+   Exam: 2  Room: 2  Slot: 2  Invigilator: 2
+   Exam: 3  Room: 2  Slot: 0  Invigilator: 3
+
+Solution 4:
+   Exam: 0  Room: 4  Slot: 6  Invigilator: 2
+   Exam: 1  Room: 3  Slot: 4  Invigilator: 0
+   Exam: 2  Room: 2  Slot: 2  Invigilator: 1
+   Exam: 3  Room: 1  Slot: 0  Invigilator: 3
+
+Solution 5:
+   Exam: 0  Room: 4  Slot: 6  Invigilator: 2
+   Exam: 1  Room: 3  Slot: 4  Invigilator: 0
+   Exam: 2  Room: 2  Slot: 2  Invigilator: 1
+   Exam: 3  Room: 0  Slot: 0  Invigilator: 3
+
+Solution 6:
+   Exam: 0  Room: 4  Slot: 6  Invigilator: 2
+   Exam: 1  Room: 3  Slot: 4  Invigilator: 0
+   Exam: 2  Room: 2  Slot: 2  Invigilator: 1
+   Exam: 3  Room: 2  Slot: 0  Invigilator: 3
+
+Solution 7:
+   Exam: 0  Room: 4  Slot: 6  Invigilator: 2
+   Exam: 1  Room: 3  Slot: 4  Invigilator: 1
+   Exam: 2  Room: 2  Slot: 2  Invigilator: 0
+   Exam: 3  Room: 0  Slot: 0  Invigilator: 3
+
+Solution 8:
+   Exam: 0  Room: 4  Slot: 6  Invigilator: 2
+   Exam: 1  Room: 3  Slot: 4  Invigilator: 1
+   Exam: 2  Room: 2  Slot: 2  Invigilator: 0
+   Exam: 3  Room: 0  Slot: 4  Invigilator: 3
+
+Solution 9:
+   Exam: 0  Room: 2  Slot: 6  Invigilator: 2
+   Exam: 1  Room: 3  Slot: 4  Invigilator: 1
+   Exam: 2  Room: 2  Slot: 2  Invigilator: 0
+   Exam: 3  Room: 0  Slot: 4  Invigilator: 3
+
+Solution 10:
+   Exam: 0  Room: 2  Slot: 0  Invigilator: 2
+   Exam: 1  Room: 3  Slot: 4  Invigilator: 1
+   Exam: 2  Room: 2  Slot: 2  Invigilator: 0
+   Exam: 3  Room: 0  Slot: 4  Invigilator: 3
+
+
+========================================
+Processing unsat5.txt:
+========================================
+Time Taken to solve this instance: 25 ms
+unsat
+Conflicting constraints detected:
+  - Each invigilator can be assigned to only one exam.
+  - Exam times or rooms are out of range.
+  - Students cannot have overlapping exams.
+
+Suggested adjustments to resolve conflicts:
+  - Increased number of time slots by 1.
+  - Increased number of invigilators to 4.
+Suggested changes resolved conflict successfully.
+
+Solution 1:
+   Exam: 0  Room: 2  Slot: 2  Invigilator: 3
+   Exam: 1  Room: 0  Slot: 4  Invigilator: 0
+   Exam: 2  Room: 4  Slot: 0  Invigilator: 2
+   Exam: 3  Room: 1  Slot: 2  Invigilator: 1
+
+Solution 2:
+   Exam: 0  Room: 1  Slot: 2  Invigilator: 2
+   Exam: 1  Room: 1  Slot: 4  Invigilator: 1
+   Exam: 2  Room: 4  Slot: 0  Invigilator: 0
+   Exam: 3  Room: 0  Slot: 2  Invigilator: 3
+
+Solution 3:
+   Exam: 0  Room: 0  Slot: 2  Invigilator: 0
+   Exam: 1  Room: 0  Slot: 4  Invigilator: 1
+   Exam: 2  Room: 4  Slot: 0  Invigilator: 3
+   Exam: 3  Room: 2  Slot: 2  Invigilator: 2
+
+Solution 4:
+   Exam: 0  Room: 0  Slot: 2  Invigilator: 0
+   Exam: 1  Room: 0  Slot: 4  Invigilator: 1
+   Exam: 2  Room: 4  Slot: 0  Invigilator: 3
+   Exam: 3  Room: 3  Slot: 2  Invigilator: 2
+
+Solution 5:
+   Exam: 0  Room: 0  Slot: 2  Invigilator: 0
+   Exam: 1  Room: 3  Slot: 4  Invigilator: 1
+   Exam: 2  Room: 4  Slot: 0  Invigilator: 3
+   Exam: 3  Room: 2  Slot: 2  Invigilator: 2
+
+Solution 6:
+   Exam: 0  Room: 0  Slot: 2  Invigilator: 0
+   Exam: 1  Room: 2  Slot: 4  Invigilator: 1
+   Exam: 2  Room: 4  Slot: 0  Invigilator: 3
+   Exam: 3  Room: 2  Slot: 2  Invigilator: 2
+
+Solution 7:
+   Exam: 0  Room: 0  Slot: 2  Invigilator: 0
+   Exam: 1  Room: 1  Slot: 4  Invigilator: 1
+   Exam: 2  Room: 4  Slot: 0  Invigilator: 3
+   Exam: 3  Room: 2  Slot: 2  Invigilator: 2
+
+Solution 8:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 0
+   Exam: 1  Room: 3  Slot: 4  Invigilator: 1
+   Exam: 2  Room: 4  Slot: 2  Invigilator: 3
+   Exam: 3  Room: 2  Slot: 0  Invigilator: 2
+
+Solution 9:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 0
+   Exam: 1  Room: 1  Slot: 4  Invigilator: 1
+   Exam: 2  Room: 4  Slot: 2  Invigilator: 3
+   Exam: 3  Room: 2  Slot: 0  Invigilator: 2
+
+Solution 10:
+   Exam: 0  Room: 0  Slot: 0  Invigilator: 0
+   Exam: 1  Room: 0  Slot: 4  Invigilator: 1
+   Exam: 2  Room: 4  Slot: 2  Invigilator: 3
+   Exam: 3  Room: 2  Slot: 0  Invigilator: 2
+
+
+========================================
+Processing unsat6.txt:
+========================================
+Time Taken to solve this instance: 20 ms
+unsat
+Conflicting constraints detected:
+  - Exam times or rooms are out of range.
+  - Students cannot have overlapping exams.
+
+Suggested adjustments to resolve conflicts:
+  - Increased number of time slots by 2.
+Suggested changes resolved conflict successfully.
+
+Solution 1:
+   Exam: 0  Room: 1  Slot: 4  Invigilator: 0
+   Exam: 1  Room: 1  Slot: 2  Invigilator: 2
+   Exam: 2  Room: 0  Slot: 0  Invigilator: 1
+
+Solution 2:
+   Exam: 0  Room: 1  Slot: 4  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 2  Invigilator: 1
+   Exam: 2  Room: 0  Slot: 0  Invigilator: 0
+
+Solution 3:
+   Exam: 0  Room: 1  Slot: 4  Invigilator: 2
+   Exam: 1  Room: 1  Slot: 2  Invigilator: 0
+   Exam: 2  Room: 0  Slot: 0  Invigilator: 1
+
+Solution 4:
+   Exam: 0  Room: 1  Slot: 4  Invigilator: 1
+   Exam: 1  Room: 1  Slot: 2  Invigilator: 0
+   Exam: 2  Room: 0  Slot: 0  Invigilator: 2
+
+Solution 5:
+   Exam: 0  Room: 1  Slot: 4  Invigilator: 1
+   Exam: 1  Room: 1  Slot: 2  Invigilator: 0
+   Exam: 2  Room: 1  Slot: 0  Invigilator: 2
+
+Solution 6:
+   Exam: 0  Room: 1  Slot: 2  Invigilator: 1
+   Exam: 1  Room: 1  Slot: 4  Invigilator: 0
+   Exam: 2  Room: 1  Slot: 0  Invigilator: 2
+
+Solution 7:
+   Exam: 0  Room: 0  Slot: 2  Invigilator: 1
+   Exam: 1  Room: 1  Slot: 4  Invigilator: 0
+   Exam: 2  Room: 1  Slot: 0  Invigilator: 2
+
+Solution 8:
+   Exam: 0  Room: 0  Slot: 2  Invigilator: 2
+   Exam: 1  Room: 1  Slot: 4  Invigilator: 0
+   Exam: 2  Room: 1  Slot: 0  Invigilator: 1
+
+Solution 9:
+   Exam: 0  Room: 1  Slot: 2  Invigilator: 2
+   Exam: 1  Room: 1  Slot: 4  Invigilator: 0
+   Exam: 2  Room: 1  Slot: 0  Invigilator: 1
+
+Solution 10:
+   Exam: 0  Room: 0  Slot: 4  Invigilator: 1
+   Exam: 1  Room: 1  Slot: 2  Invigilator: 0
+   Exam: 2  Room: 1  Slot: 0  Invigilator: 2
+
+
+========================================
+Processing unsat7.txt:
+========================================
+Time Taken to solve this instance: 37 ms
+unsat
+Conflicting constraints detected:
+  - Each invigilator can be assigned to only one exam.
+  - Room capacity exceeded.
+  - Exam times or rooms are out of range.
+
+Suggested adjustments to resolve conflicts:
+  - Increased capacity of room 0 by 5.
+  - Increased capacity of room 1 by 5.
+  - Increased capacity of room 2 by 5.
+  - Increased number of invigilators to 5.
+  - Increased number of time slots by 1.
+Suggested changes resolved conflict successfully.
+
+Solution 1:
+   Exam: 0  Room: 1  Slot: 4  Invigilator: 2
+   Exam: 1  Room: 1  Slot: 6  Invigilator: 0
+   Exam: 2  Room: 1  Slot: 2  Invigilator: 1
+   Exam: 3  Room: 2  Slot: 0  Invigilator: 3
+   Exam: 4  Room: 0  Slot: 6  Invigilator: 4
+
+Solution 2:
+   Exam: 0  Room: 0  Slot: 4  Invigilator: 1
+   Exam: 1  Room: 1  Slot: 6  Invigilator: 4
+   Exam: 2  Room: 1  Slot: 2  Invigilator: 0
+   Exam: 3  Room: 1  Slot: 0  Invigilator: 2
+   Exam: 4  Room: 0  Slot: 5  Invigilator: 3
+
+Solution 3:
+   Exam: 0  Room: 0  Slot: 4  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 6  Invigilator: 4
+   Exam: 2  Room: 1  Slot: 2  Invigilator: 2
+   Exam: 3  Room: 1  Slot: 0  Invigilator: 1
+   Exam: 4  Room: 0  Slot: 6  Invigilator: 0
+
+Solution 4:
+   Exam: 0  Room: 0  Slot: 4  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 6  Invigilator: 4
+   Exam: 2  Room: 1  Slot: 2  Invigilator: 2
+   Exam: 3  Room: 1  Slot: 0  Invigilator: 1
+   Exam: 4  Room: 0  Slot: 5  Invigilator: 0
+
+Solution 5:
+   Exam: 0  Room: 0  Slot: 4  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 6  Invigilator: 4
+   Exam: 2  Room: 1  Slot: 2  Invigilator: 2
+   Exam: 3  Room: 1  Slot: 0  Invigilator: 1
+   Exam: 4  Room: 2  Slot: 5  Invigilator: 0
+
+Solution 6:
+   Exam: 0  Room: 0  Slot: 4  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 6  Invigilator: 4
+   Exam: 2  Room: 1  Slot: 2  Invigilator: 2
+   Exam: 3  Room: 1  Slot: 0  Invigilator: 1
+   Exam: 4  Room: 1  Slot: 5  Invigilator: 0
+
+Solution 7:
+   Exam: 0  Room: 1  Slot: 4  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 6  Invigilator: 4
+   Exam: 2  Room: 1  Slot: 2  Invigilator: 2
+   Exam: 3  Room: 1  Slot: 0  Invigilator: 1
+   Exam: 4  Room: 2  Slot: 5  Invigilator: 0
+
+Solution 8:
+   Exam: 0  Room: 2  Slot: 4  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 6  Invigilator: 4
+   Exam: 2  Room: 1  Slot: 2  Invigilator: 2
+   Exam: 3  Room: 1  Slot: 0  Invigilator: 1
+   Exam: 4  Room: 1  Slot: 5  Invigilator: 0
+
+Solution 9:
+   Exam: 0  Room: 1  Slot: 4  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 6  Invigilator: 4
+   Exam: 2  Room: 1  Slot: 2  Invigilator: 2
+   Exam: 3  Room: 1  Slot: 0  Invigilator: 1
+   Exam: 4  Room: 1  Slot: 5  Invigilator: 0
+
+Solution 10:
+   Exam: 0  Room: 2  Slot: 4  Invigilator: 3
+   Exam: 1  Room: 1  Slot: 6  Invigilator: 4
+   Exam: 2  Room: 1  Slot: 2  Invigilator: 2
+   Exam: 3  Room: 1  Slot: 0  Invigilator: 1
+   Exam: 4  Room: 0  Slot: 5  Invigilator: 0
+
+
+========================================
+Processing unsat8.txt:
+========================================
+Time Taken to solve this instance: 69 ms
+unsat
+Conflicting constraints detected:
+  - Exam times or rooms are out of range.
+  - Each invigilator can be assigned to only one exam.
+  - Students cannot have overlapping exams.
+
+Suggested adjustments to resolve conflicts:
+  - Increased number of time slots by 4.
+  - Increased number of invigilators to 4.
+Suggested changes resolved conflict successfully.
+
+Solution 1:
+   Exam: 0  Room: 1  Slot: 0  Invigilator: 3
+   Exam: 1  Room: 0  Slot: 2  Invigilator: 0
+   Exam: 2  Room: 0  Slot: 6  Invigilator: 2
+   Exam: 3  Room: 1  Slot: 4  Invigilator: 1
+
+Solution 2:
+   Exam: 0  Room: 1  Slot: 6  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 3
+   Exam: 2  Room: 0  Slot: 4  Invigilator: 1
+   Exam: 3  Room: 1  Slot: 2  Invigilator: 0
+
+Solution 3:
+   Exam: 0  Room: 1  Slot: 6  Invigilator: 1
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 3
+   Exam: 2  Room: 0  Slot: 4  Invigilator: 2
+   Exam: 3  Room: 1  Slot: 2  Invigilator: 0
+
+Solution 4:
+   Exam: 0  Room: 1  Slot: 6  Invigilator: 0
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 3
+   Exam: 2  Room: 0  Slot: 4  Invigilator: 2
+   Exam: 3  Room: 1  Slot: 2  Invigilator: 1
+
+Solution 5:
+   Exam: 0  Room: 1  Slot: 2  Invigilator: 0
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 3
+   Exam: 2  Room: 0  Slot: 4  Invigilator: 2
+   Exam: 3  Room: 1  Slot: 6  Invigilator: 1
+
+Solution 6:
+   Exam: 0  Room: 1  Slot: 6  Invigilator: 0
+   Exam: 1  Room: 0  Slot: 0  Invigilator: 3
+   Exam: 2  Room: 0  Slot: 2  Invigilator: 2
+   Exam: 3  Room: 1  Slot: 4  Invigilator: 1
+
+Solution 7:
+   Exam: 0  Room: 1  Slot: 6  Invigilator: 0
+   Exam: 1  Room: 0  Slot: 2  Invigilator: 3
+   Exam: 2  Room: 0  Slot: 0  Invigilator: 2
+   Exam: 3  Room: 1  Slot: 4  Invigilator: 1
+
+Solution 8:
+   Exam: 0  Room: 1  Slot: 6  Invigilator: 1
+   Exam: 1  Room: 0  Slot: 2  Invigilator: 3
+   Exam: 2  Room: 0  Slot: 0  Invigilator: 0
+   Exam: 3  Room: 1  Slot: 4  Invigilator: 2
+
+Solution 9:
+   Exam: 0  Room: 1  Slot: 6  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 2  Invigilator: 3
+   Exam: 2  Room: 0  Slot: 0  Invigilator: 1
+   Exam: 3  Room: 1  Slot: 4  Invigilator: 0
+
+Solution 10:
+   Exam: 0  Room: 1  Slot: 6  Invigilator: 2
+   Exam: 1  Room: 0  Slot: 2  Invigilator: 3
+   Exam: 2  Room: 0  Slot: 0  Invigilator: 0
+   Exam: 3  Room: 1  Slot: 4  Invigilator: 1
+
+
+========================================
+Processing unsat9.txt:
+========================================
+Time Taken to solve this instance: 324008 ms
+unsat
+Conflicting constraints detected:
+  - Exam times or rooms are out of range.
+  - Each invigilator can be assigned to only one exam.
+  - Students cannot have overlapping exams.
+
+Suggested adjustments to resolve conflicts:
+  - Increased number of time slots by 9.
+  - Increased number of invigilators to 9.
+Suggested changes resolved conflict successfully.
+
+Solution 1:
+   Exam: 0  Room: 1  Slot: 0  Invigilator: 3
+   Exam: 1  Room: 2  Slot: 2  Invigilator: 7
+   Exam: 2  Room: 1  Slot: 4  Invigilator: 6
+   Exam: 3  Room: 1  Slot: 6  Invigilator: 8
+   Exam: 4  Room: 1  Slot: 8  Invigilator: 4
+   Exam: 5  Room: 1  Slot: 10  Invigilator: 5
+   Exam: 6  Room: 1  Slot: 12  Invigilator: 2
+   Exam: 7  Room: 1  Slot: 14  Invigilator: 0
+   Exam: 8  Room: 2  Slot: 16  Invigilator: 1
+
+Solution 2:
+   Exam: 0  Room: 1  Slot: 8  Invigilator: 2
+   Exam: 1  Room: 2  Slot: 16  Invigilator: 6
+   Exam: 2  Room: 1  Slot: 0  Invigilator: 7
+   Exam: 3  Room: 1  Slot: 4  Invigilator: 8
+   Exam: 4  Room: 1  Slot: 10  Invigilator: 3
+   Exam: 5  Room: 1  Slot: 12  Invigilator: 5
+   Exam: 6  Room: 1  Slot: 14  Invigilator: 4
+   Exam: 7  Room: 1  Slot: 6  Invigilator: 1
+   Exam: 8  Room: 2  Slot: 2  Invigilator: 0
+
+Solution 3:
+   Exam: 0  Room: 1  Slot: 8  Invigilator: 2
+   Exam: 1  Room: 2  Slot: 16  Invigilator: 6
+   Exam: 2  Room: 1  Slot: 0  Invigilator: 7
+   Exam: 3  Room: 1  Slot: 6  Invigilator: 8
+   Exam: 4  Room: 1  Slot: 10  Invigilator: 3
+   Exam: 5  Room: 1  Slot: 12  Invigilator: 5
+   Exam: 6  Room: 1  Slot: 14  Invigilator: 4
+   Exam: 7  Room: 1  Slot: 4  Invigilator: 1
+   Exam: 8  Room: 2  Slot: 2  Invigilator: 0
+
+Solution 4:
+   Exam: 0  Room: 1  Slot: 8  Invigilator: 2
+   Exam: 1  Room: 2  Slot: 6  Invigilator: 6
+   Exam: 2  Room: 1  Slot: 0  Invigilator: 7
+   Exam: 3  Room: 1  Slot: 4  Invigilator: 8
+   Exam: 4  Room: 1  Slot: 10  Invigilator: 3
+   Exam: 5  Room: 1  Slot: 12  Invigilator: 5
+   Exam: 6  Room: 1  Slot: 14  Invigilator: 4
+   Exam: 7  Room: 1  Slot: 16  Invigilator: 1
+   Exam: 8  Room: 2  Slot: 2  Invigilator: 0
+
+Solution 5:
+   Exam: 0  Room: 2  Slot: 8  Invigilator: 2
+   Exam: 1  Room: 2  Slot: 6  Invigilator: 6
+   Exam: 2  Room: 1  Slot: 0  Invigilator: 7
+   Exam: 3  Room: 1  Slot: 4  Invigilator: 8
+   Exam: 4  Room: 1  Slot: 10  Invigilator: 3
+   Exam: 5  Room: 1  Slot: 12  Invigilator: 5
+   Exam: 6  Room: 1  Slot: 14  Invigilator: 4
+   Exam: 7  Room: 1  Slot: 16  Invigilator: 1
+   Exam: 8  Room: 2  Slot: 2  Invigilator: 0
+
+Solution 6:
+   Exam: 0  Room: 1  Slot: 8  Invigilator: 2
+   Exam: 1  Room: 2  Slot: 6  Invigilator: 6
+   Exam: 2  Room: 1  Slot: 0  Invigilator: 7
+   Exam: 3  Room: 2  Slot: 4  Invigilator: 8
+   Exam: 4  Room: 1  Slot: 10  Invigilator: 3
+   Exam: 5  Room: 1  Slot: 12  Invigilator: 5
+   Exam: 6  Room: 1  Slot: 14  Invigilator: 4
+   Exam: 7  Room: 1  Slot: 16  Invigilator: 1
+   Exam: 8  Room: 2  Slot: 2  Invigilator: 0
+
+Solution 7:
+   Exam: 0  Room: 1  Slot: 8  Invigilator: 2
+   Exam: 1  Room: 2  Slot: 6  Invigilator: 6
+   Exam: 2  Room: 1  Slot: 0  Invigilator: 7
+   Exam: 3  Room: 2  Slot: 4  Invigilator: 8
+   Exam: 4  Room: 1  Slot: 10  Invigilator: 4
+   Exam: 5  Room: 1  Slot: 12  Invigilator: 5
+   Exam: 6  Room: 1  Slot: 14  Invigilator: 3
+   Exam: 7  Room: 1  Slot: 16  Invigilator: 1
+   Exam: 8  Room: 2  Slot: 2  Invigilator: 0
+
+Solution 8:
+   Exam: 0  Room: 1  Slot: 8  Invigilator: 2
+   Exam: 1  Room: 2  Slot: 6  Invigilator: 6
+   Exam: 2  Room: 1  Slot: 0  Invigilator: 7
+   Exam: 3  Room: 2  Slot: 4  Invigilator: 8
+   Exam: 4  Room: 1  Slot: 10  Invigilator: 4
+   Exam: 5  Room: 1  Slot: 12  Invigilator: 5
+   Exam: 6  Room: 2  Slot: 14  Invigilator: 3
+   Exam: 7  Room: 1  Slot: 16  Invigilator: 1
+   Exam: 8  Room: 2  Slot: 2  Invigilator: 0
+
+Solution 9:
+   Exam: 0  Room: 1  Slot: 8  Invigilator: 2
+   Exam: 1  Room: 2  Slot: 6  Invigilator: 6
+   Exam: 2  Room: 1  Slot: 0  Invigilator: 7
+   Exam: 3  Room: 2  Slot: 4  Invigilator: 8
+   Exam: 4  Room: 2  Slot: 10  Invigilator: 4
+   Exam: 5  Room: 1  Slot: 12  Invigilator: 5
+   Exam: 6  Room: 2  Slot: 14  Invigilator: 3
+   Exam: 7  Room: 1  Slot: 16  Invigilator: 1
+   Exam: 8  Room: 2  Slot: 2  Invigilator: 0
+
+Solution 10:
+   Exam: 0  Room: 1  Slot: 8  Invigilator: 2
+   Exam: 1  Room: 2  Slot: 6  Invigilator: 6
+   Exam: 2  Room: 1  Slot: 0  Invigilator: 7
+   Exam: 3  Room: 2  Slot: 4  Invigilator: 8
+   Exam: 4  Room: 2  Slot: 10  Invigilator: 4
+   Exam: 5  Room: 2  Slot: 12  Invigilator: 5
+   Exam: 6  Room: 2  Slot: 14  Invigilator: 3
+   Exam: 7  Room: 1  Slot: 16  Invigilator: 1
+   Exam: 8  Room: 2  Slot: 2  Invigilator: 0
+
+
+Elapsed time: 332318 milliseconds

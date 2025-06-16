@@ -1,0 +1,12 @@
+sat
+s1: u49
+s2: u50
+s3: u50
+s4: u50
+s5: u50
+s6: u50
+s7: u50
+s8: u50
+s9: u50
+s10: u49
+Time Elapsed: 9ms

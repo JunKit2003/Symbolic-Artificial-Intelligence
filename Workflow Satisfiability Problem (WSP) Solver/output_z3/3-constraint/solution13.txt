@@ -1,0 +1,12 @@
+sat
+s1: u39
+s2: u45
+s3: u39
+s4: u45
+s5: u47
+s6: u47
+s7: u47
+s8: u47
+s9: u47
+s10: u39
+Time Elapsed: 9ms

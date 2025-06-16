@@ -1,0 +1,8 @@
+sat
+Solution 1:
+s1: u1
+s2: u2
+s3: u1
+s4: u5
+s5: u5
+Time Elapsed: 293ms

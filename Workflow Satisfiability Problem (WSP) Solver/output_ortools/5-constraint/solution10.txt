@@ -1,0 +1,12 @@
+sat
+s1: u5
+s2: u5
+s3: u13
+s4: u13
+s5: u3
+s6: u3
+s7: u5
+s8: u13
+s9: u5
+s10: u5
+Time Elapsed: 69ms

@@ -1,0 +1,12 @@
+sat
+s1: u25
+s2: u25
+s3: u25
+s4: u25
+s5: u25
+s6: u25
+s7: u25
+s8: u25
+s9: u25
+s10: u48
+Time Elapsed: 48ms

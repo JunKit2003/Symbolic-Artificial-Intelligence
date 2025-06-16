@@ -1,0 +1,22 @@
+sat
+s1: u1
+s2: u29
+s3: u1
+s4: u3
+s5: u32
+s6: u32
+s7: u9
+s8: u29
+s9: u29
+s10: u29
+s11: u32
+s12: u1
+s13: u32
+s14: u29
+s15: u9
+s16: u29
+s17: u1
+s18: u29
+s19: u1
+s20: u3
+Time Elapsed: 2021ms
